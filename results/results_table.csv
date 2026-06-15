@@ -1,7 +1,0 @@
-Model,Hyperparameters,Accuracy,Precision,Recall,F1-Score,TrainTimeSec
-SVM,"Kernel=Linear, C=1.0",0.9143,0.0,0.0,0.0,1.38
-SVM,"Kernel=RBF, C=1.0, gamma=scale",0.916,0.6923,0.035,0.0667,2.64
-KNN,K=3,0.8973,0.2661,0.1128,0.1585,0.0
-KNN,K=5,0.9063,0.3182,0.0817,0.13,0.0
-KNN,K=11,0.916,0.5926,0.0623,0.1127,0.0
-Naive Bayes,Default Gaussian (var_smoothing=1e-9),0.8283,0.2646,0.5642,0.3602,0.01
