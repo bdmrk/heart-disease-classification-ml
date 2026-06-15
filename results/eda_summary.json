@@ -1,0 +1,17 @@
+{
+  "full_rows": 319795,
+  "full_cols": 18,
+  "missing_values_total": 0,
+  "class_distribution_full": {
+    "No": 292422,
+    "Yes": 27373
+  },
+  "sample_rows": 15000,
+  "class_distribution_sample": {
+    "No": 13716,
+    "Yes": 1284
+  },
+  "n_features_after_encoding": 23,
+  "train_rows": 12000,
+  "test_rows": 3000
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "Model": "SVM",
+    "Hyperparameters": "Kernel=Linear, C=1.0",
+    "Accuracy": 0.9143,
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1-Score": 0.0,
+    "TrainTimeSec": 1.38
+  },
+  {
+    "Model": "SVM",
+    "Hyperparameters": "Kernel=RBF, C=1.0, gamma=scale",
+    "Accuracy": 0.916,
+    "Precision": 0.6923,
+    "Recall": 0.035,
+    "F1-Score": 0.0667,
+    "TrainTimeSec": 2.64
+  },
+  {
+    "Model": "KNN",
+    "Hyperparameters": "K=3",
+    "Accuracy": 0.8973,
+    "Precision": 0.2661,
+    "Recall": 0.1128,
+    "F1-Score": 0.1585,
+    "TrainTimeSec": 0.0
+  },
+  {
+    "Model": "KNN",
+    "Hyperparameters": "K=5",
+    "Accuracy": 0.9063,
+    "Precision": 0.3182,
+    "Recall": 0.0817,
+    "F1-Score": 0.13,
+    "TrainTimeSec": 0.0
+  },
+  {
+    "Model": "KNN",
+    "Hyperparameters": "K=11",
+    "Accuracy": 0.916,
+    "Precision": 0.5926,
+    "Recall": 0.0623,
+    "F1-Score": 0.1127,
+    "TrainTimeSec": 0.0
+  },
+  {
+    "Model": "Naive Bayes",
+    "Hyperparameters": "Default Gaussian (var_smoothing=1e-9)",
+    "Accuracy": 0.8283,
+    "Precision": 0.2646,
+    "Recall": 0.5642,
+    "F1-Score": 0.3602,
+    "TrainTimeSec": 0.01
+  }
+]
