@@ -1,6 +1,6 @@
 # Heart Disease Prediction — SVM vs KNN vs Naive Bayes
 
-Course: **PMIT-6121 Machine Learning** · Author: **Md. Tarequl Islam Mizi (252008)**
+Course: **PMIT-6121 Machine Learning** · Author: **Mahabubur Rahman Kausar- 252076**
 
 Benchmarks three classical classifiers on the CDC BRFSS 2020 *Personal Key
 Indicators of Heart Disease* dataset (319,795 records, 18 columns).
